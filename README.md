@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C&link=https://www.instagram.com/mupezzuol)](https://www.instagram.com/azamov_dev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C&link=https://twitter.com/mupezzuol)](https://twitter.com/islamicProgram3)
 
-## <samp>Hello World!</samp> <img src="https://github.com/IslamicProgrammer/islamicProgrammer/blob/master/assets/earth.gif" width="22px">
+## <samp>Hello World!</samp> <img src="https://github.com/IslamicProgrammer/islamicProgrammer/master/assets/earth.gif" width="22px">
 
 <samp>I'm Murodjon Azamov and a ReactJS Frontend developer <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">
 I like solving problems and creating awesome things
