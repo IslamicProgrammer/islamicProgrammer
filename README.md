@@ -7,7 +7,7 @@
 
 <samp>I'm Murodjon Azamov and a ReactJS Frontend developer 
 I like solving problems and creating awesome things
-</samp><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="24"> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/developer.gif" width="30px">
+</samp>
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
