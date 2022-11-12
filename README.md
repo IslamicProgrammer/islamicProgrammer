@@ -15,4 +15,8 @@ I like solving problems and creating awesome things
 - ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
 - 👨‍🎓 &nbsp; <samp>My academic life.[**here**](https://www.linkedin.com/in/murodjon-azamov-571336202/)</samp>
 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IslamicProgrammer&show_icons=true)  
+
+
 ---
